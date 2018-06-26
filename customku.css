@@ -1,0 +1,48 @@
+body{
+    background: url("http://monodomo.com/free-wallpapers/abstract-clock-wallpapers-desktop-background-For-Free-Wallpaper-1.jpg");
+    background-size: 100%;
+}
+#nama{
+    background: url("http://monodomo.com/free-wallpapers/abstract-clock-wallpapers-desktop-background-For-Free-Wallpaper-1.jpg");
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #00FFFF;
+    font-family: calibri;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff;
+}
+#content{
+    max-width: 768px;
+    background: #fff;
+    margin: 10px auto;
+    box-shadow: 5px 5px #868686;
+}
+.lebargambar{
+	max-width: 160px;
+}
+.gambarku{
+	    width: 100%;
+}
+.garis{
+    padding: 2px;
+    background: #333;
+    width: 99%;
+    margin: 10px 0px;
+}
+.tabelku{
+	border-bottom: 1px solid #333;
+}
+.Judul1{
+	    font-size: 20px;
+    text-transform: uppercase;
+    font-family: calibri;
+    font-weight: bold;
+    color: #3498db;
+}
+.Deskripsi{
+	line-height: 1.5;
+    text-align: justify;
+    padding: 0px 15px 0px 0px;
+}
